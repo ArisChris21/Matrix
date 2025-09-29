@@ -1,5 +1,3 @@
-# Matrix
-
 # Overview
 This repository contains Python classes that demonstrate various matrix manipulation operations and a physics calculation implementation. The code showcases object-oriented programming concepts including inheritance and method overriding.
 
